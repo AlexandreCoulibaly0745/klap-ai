@@ -43,4 +43,5 @@ Dans les paramètres du repo GitHub :
 
 ---
 
-Développé par Alexandre Coulibaly
+
+Développé par Alexandre Coulibaly 
